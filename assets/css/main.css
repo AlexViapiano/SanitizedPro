@@ -4311,3 +4311,7 @@ input, select, textarea {
 	a {
 		border: none;
 	}
+
+	.grow-hover:hover {
+		transform: scale(1.05);
+	}
